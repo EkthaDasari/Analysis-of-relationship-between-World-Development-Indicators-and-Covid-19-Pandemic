@@ -1,1 +1,3 @@
 # Analysis-of-relationship-between-World-Development-Indicators-and-Covid-19-Pandemic
+
+In this project an analysis of regression models, clustering and classification methods are done on the dataset which consists of World Development Indicators(WDI) and casualties of COVID-19. This dataset has been obtained from a primary World bank database. First analyze the descriptive statistics of the dataset, replace the NA values present in the dataset, categorize the response variable (Covid.deaths) and perform k-means clustering, logistic regression, LDA and QDA analysis. The analysis helps us in achieving the best classification method suitable for the dataset. 
